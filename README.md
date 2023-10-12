@@ -1,5 +1,6 @@
 # Game-sales-forecasting-use-liner-regression
-International Marketing 小组作业1
+International Marketing Team Project 1
+
 # 项目简述
 本项目的核心目标是为了给《黑神话：悟空》设计营销方案，在设计营销方案之前，我们希望构建一个量化模型来预测游戏的销量。
 所有的数据从SteamDB平台获取
@@ -12,4 +13,5 @@ The core objective of this project is to design a marketing plan for Black Myth:
 
 # 项目介绍
 你可以在仓库中访问我们的数据集：https://github.com/JudgeHu/Game-sales-forecasting-use-liner-regression/blob/main/data.csv
+
 你可以在仓库中访问我们的Jupyter Notebook文件：https://github.com/JudgeHu/Game-sales-forecasting-use-liner-regression/blob/main/sales_forecasting.ipynb
