@@ -9,3 +9,7 @@
 
 # Brief description of the project
 The core objective of this project is to design a marketing plan for Black Myth: Wukong, before designing the marketing plan, we would like to construct a quantitative model to predict the sales of the game. All data were obtained from the SteamDB platform Through preliminary examination of the data, we concluded that there is a linear relationship between the number of followers of a game and the sales of the game, and a linear regression model can be constructed to make predictions. We screened 25 games and downloaded the corresponding data from the SteamDB platform. Among them, the follower data were directly selected from SteamDB, and the sales data were selected from the statistics of VGinsight.
+
+# 项目介绍
+你可以在仓库中访问我们的数据集：https://github.com/JudgeHu/Game-sales-forecasting-use-liner-regression/blob/main/data.csv
+你可以在仓库中访问我们的Jupyter Notebook文件：https://github.com/JudgeHu/Game-sales-forecasting-use-liner-regression/blob/main/sales_forecasting.ipynb
